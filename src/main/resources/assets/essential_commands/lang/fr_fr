@@ -47,7 +47,7 @@
   "cmd.tpcancel.error.no_exists": "Aucune demande de téléportation active à annuler.",
   "cmd.tpdeny.feedback": "Demande de téléportation refusée.",
   "cmd.warp.delete.feedback": "Warp '${0}' supprimé.",
-  "cmd.warp.delete.error": "Warp '${0}' non supprimé. (Orthographe correcte ?)",
+  "cmd.warp.delete.error": "Warp '${0}' non supprimé.",
   "cmd.warp.set.feedback": "Warp '${0}' défini.",
   "cmd.warp.set.error.exists": "Warp '${0}' ne peut pas être défini. Un warp avec le nom spécifié existe déjà.",
   "cmd.warp.location_name": "warp : ${0}",
